@@ -44,4 +44,4 @@ The idea to jumpstart LAWFAT originated during a casual conversation among the f
 
 ## Architecture:
 
-
+![Screen Shot 2020-03-23 at 7 42 58 PM](https://user-images.githubusercontent.com/47718912/77326472-df016800-6d3f-11ea-9b99-b97f7ae478bb.png)
