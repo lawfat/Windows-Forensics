@@ -30,9 +30,9 @@ Some of the key objectives of LAWFAT are as follows:-
 ## Team Composition:
 The idea to jumpstart LAWFAT originated during a casual conversation among the following team members. Though the start is casual, the awesome @dreamoryindia and @diligere are more than committed to take it forward. 
 
-- S Raja Prabhu (Twitter: @inf0knight)
-- Kajol Nirav Patel (Twitter: @dreamoryindia)
-- Manishjeet Nayak (Twitter: @diligere)
+- S Raja Prabhu [@inf0knight](https://twitter.com/inf0knight)
+- Kajol Nirav Patel [@dreamoryindia](https://twitter.com/dreamoryindia)
+- Manishjeet Nayak [@diligereindia](https://twitter.com/diligereindia)
 
 ## Expected Outcomes:
 
